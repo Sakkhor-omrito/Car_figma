@@ -1,0 +1,389 @@
+@media(min-width:1200px) and (max-width:1399.98px){
+    .hero_content h1 {
+        Font-size: 57px;
+    }
+}
+@media(min-width:992px) and (max-width:1199.98px){
+    .hero_content {
+        left: 0%;
+        transform: translateX(0%);
+        padding: 0 13px;
+    }
+
+.banner {
+    height: 500px;
+}
+.car_img img {
+	max-width: 250px;
+}
+.second .price_p {
+	padding-top: 2px;
+}
+#android_section {
+	margin: 60px 0;
+}
+.android_right img {
+	margin-left: 20px;
+	max-width: 600px;
+}
+.span {
+	font-size: 26px !important;
+}
+.banner_dots .slick-active{
+    display:none;
+}
+.banner_dots button{
+    display: none;
+}
+.backtop {
+	bottom: 20px;
+	left: 95%;
+}
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .TopFooterSection {
+        width:98%;
+    }
+    .HeaderButton {
+padding:5px 10px;
+    }
+    .hero_content {
+        left:0%;
+        transform: translateX(0%);
+    }
+    .hero_content p {
+        font-size: 20px;
+        padding-top: 19px;
+    }
+    .banner {
+        height: 470px;
+    }
+    .TopFooterSection {
+        padding: 0 7px;
+    }
+    .form-select {
+        Font-size: 11px;
+    }
+    .signup{
+        margin-left: -42px;
+    }
+    .img_1 img{
+        max-width: 130px;
+    }
+    .gap {
+        margin: 0 10px;
+    }
+    .android_left{
+        text-align: center;
+    }
+    .car_img img {
+        max-width: 200px;
+    }
+    .second {
+        padding: 0 5px;
+    }
+    .second p {
+        font-size: 11px;
+    }
+    .first p {
+        font-size: 11px;
+    }
+    .third {
+        margin-left:0px;
+        margin-top: 10px;
+    }
+    .third button {
+        padding: 10px 10px;
+    }
+    .second .price_p {
+        padding-top: 1px;
+    }
+    .banner_dots .slick-active{
+        display:none;
+    }
+    .banner_dots button{
+        display: none;
+    }
+    .android_right img {
+        margin-left:0px;
+    }
+    #android_section {
+        margin: 30px;
+    }
+    .android_right{
+        margin-top:40px;
+    }
+    .infinity {
+        justify-content: space-between;
+        padding-left:0;
+    }
+    .infinity p {
+        padding-left: 10px;
+    }
+    #footer_section {
+        margin-top: 50px;
+        text-align: center;
+    }
+    .fotter_bottom {
+        justify-content: center;
+    }
+    .footer_right i {
+        margin-left: 10px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    .banner {
+        height: 400px;
+    }
+    .hero_content h1 {
+        Font-size: 45px;
+        Line-height: 46px;
+    }
+    .hero_content p {
+        font-size: 19px;
+        line-height: 32px;
+        margin: 12px 89px;
+    }
+    #logo_part {
+        margin-top:400px;
+    }
+    .img_1 {
+        text-align:start;
+    }
+    .img_1 img {
+        max-width: 80px;
+    }
+    .img_2 img{
+        max-width: 70px;
+    }
+    .gap {
+        margin: 0 10px;
+    }
+    .car_img img {
+        max-width: 200px;
+    }
+    .third {
+        margin-left:0px;
+    }
+    .first p {
+        font-size: 11px;
+    }
+    .second {
+        padding: 5px;
+    }
+    .second p {
+        font-size: 11px;
+    }
+    .first p {
+        padding-top: 5px;
+    }
+    .third button {
+        margin-left: 10px;
+    }
+    .second .price_p {
+        padding-top: 6px;
+    }
+    .header_find {
+        display: block!important;
+    }
+    .header_find h3 {
+        padding-bottom: 20px;
+    }
+    .find_left h6 {
+        padding-top:0px;
+    }
+    .subraru_img{
+     display: flex;
+    }
+    .header_ul{
+        display: none!important;
+    }
+    .subraru_img {
+        margin-top: 30px;
+    }
+    .header_find h3 {
+        padding-bottom: 0px;
+    }
+    .infinity {
+        padding-left:0px;
+        justify-content: space-between;
+    }
+    #footer_section {
+        margin-top: 30px;
+    }
+    #footer_section {
+        margin-top: 30px;
+        text-align: center;
+    }
+    .footer_first{
+        margin-bottom:20px;
+    }
+    .backtop {
+        bottom: 80px;
+    }
+    .footer_right i {
+        margin-left: 8px;
+    }
+    .header_content h2 {
+        margin-bottom: 28px;
+    }
+    .infinity {
+        padding-left: 10px;
+    }
+}
+@media(max-width:767px){
+    .TopFooterSection {
+        width: 92%;
+        height:100%;
+        top:83%;
+    }
+    .border_bottom{
+        position: relative;
+     }
+     .border_bottom:after{
+         position: absolute;
+         content:'';
+         height:1px;
+         width:90%;
+         background-color: #f1f1f1;
+         bottom:0;
+         left:50%;
+         transform: translateX(-50%);
+     }
+     .hero_content {
+         left:0%;
+         transform: translateX(0%);
+     }
+  
+     .HeaderButton{
+         width: 100%;
+         padding:15px 0;
+     }
+     .signup{
+        margin-left: -42px;
+    }
+    .banner {
+        height: 400px;
+    }
+}
+@media(max-width:575.98px){
+    .banner {
+        height: 399px;
+    }
+
+    .hero_content {
+        left:0%;
+        transform: translateX(0%);
+    }
+    .hero_content h1 {
+        Font-size: 35px;
+        Line-height: 46px;
+    }
+    .hero_content p {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    #logo_part {
+        margin-top:400px;
+    }
+    .img_1 {
+        text-align:center;
+        margin-bottom:30px;
+    }
+    .img_2{
+        text-align:center;
+    }
+    .img_1 img {
+        max-width: 100px;
+    }
+    .img_2 img{
+        max-width: 100px;
+    }
+    .gap {
+        margin: 0 10px;
+    }
+    .car_img img {
+        max-width:100%;
+        margin: 0 auto;
+    }
+    .angle_icon {
+        display: none !important;
+    }
+    .header_content h2 {
+        text-align: center;
+    }
+    .header_content h2 {
+        margin-bottom: 30px;
+    }
+    #android_section {
+        margin: 10px;
+    }
+    .android_left p {
+        font-size: 14px;
+    }
+    .header_find {
+        display: block!important;
+        margin-top:50px;
+    }
+    .header_find h3 {
+        text-align: center;
+    }
+    .header_find ul li {
+        padding: 2px 6px;
+        font-size: 13px;
+        display: none;
+    }
+    .find_left h6 {
+        padding-top:0px;
+        text-align: center;
+    }
+    .responsive {
+        display: flex;
+        justify-content: center;
+    }
+    .subraru_img {
+        margin-top: 30px;
+    }
+    .acura {
+        justify-content: space-between;
+    }
+    .infinity {
+        justify-content: space-between;
+    }
+    .other_makes{
+        margin:0 10px;
+    }
+    .infinity {
+        padding-left:10px;
+    }
+    .other_makes h6 {
+        padding-top: 40px;
+        text-align: center;
+    }
+    .footer_first{
+        text-align: center;
+    }
+    .fotter_bottom {
+        display: block!important;
+    }
+    .footer_left span {
+        font-size: 11px;
+    }
+    .footer_right {
+        text-align: center;
+        margin-top: 20px;
+    }
+    .backtop {
+        bottom: 100px;
+    }
+    .footer_left {
+        text-align: center;
+    }
+    .span {
+        font-size: 28px !important;
+        padding: 5px 5px;
+    }
+    .android_left h3 {
+        font-size: 25px;
+    }
+}
